@@ -1,0 +1,38 @@
+#contatos{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border-style: solid;
+    max-width: 100%;
+}
+#contatos:hover{background-color: #cff5ff;}
+
+#p-cont{
+    color: #2ba5c7;
+}
+
+#imgs-contato{
+    width: 80px;
+    height: 80px;
+}
+
+#contatos, #contatos1{
+    display: inline-block;
+}
+
+#contatos1{
+    width: 200px;
+    height: 200px;
+    margin-left: 80px;
+    border-radius: 10px;
+    border-style: solid;
+    max-width: 100%;
+}
+#contatos1:hover{background-color: #cff5ff;}
+
+
+#links-contatos{
+    color: #2ba5c7;
+    text-decoration: none;
+}
+

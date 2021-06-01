@@ -1,0 +1,67 @@
+#h1-caixa1{
+    font-size: 70px;
+}
+img{
+    border-radius: 20px;
+    margin: 20px;
+}
+img:hover{position:relative}
+img:hover{transform: scale(1.1);}
+
+#img1, #img2, #img3{
+    display: inline-block;
+}
+
+#p-div1-projetos{
+    padding-left: 40px;
+    font: 100;
+}
+
+#imgs-habs{
+    width: 270px;
+    height: 270px;
+}
+
+/*@media screen and(max-width: 1400px){}*/
+
+@media screen and (max-width: 400px){
+    #img1, #img2, #img3{
+        width: 330px;
+        height: 160px;
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        
+
+    }
+
+    #imgs-projetos{
+        padding-left: 0%;
+        margin-left: 0%;
+    }
+
+    #p-div1-projetos{
+        display: inline-block;
+       
+    }
+
+    #cont{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
+    }
+
+    #p-div1-curso{
+        display: inline-block;
+       
+    }
+
+    #contatos1{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 20px;
+    }
+}
+
