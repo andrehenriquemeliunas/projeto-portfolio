@@ -65,3 +65,71 @@ img:hover{transform: scale(1.1);}
     }
 }
 
+
+@media screen and (max-width: 720px){
+    #img1, #img2, #img3{
+        width: 340px;
+        height: 170px;
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+        height: 70%;
+        
+
+    }
+
+    #imgs-projetos{
+        padding-left: 0%;
+        margin-left: 0%;
+    }
+
+    #p-div1-projetos{
+        display: inline-block;
+        font-size: 30px;
+       
+    }
+
+    #cont{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
+
+    }
+
+    #p-div1-curso{
+        display: inline-block;
+        font-size: 30px;
+       
+    }
+
+    #contatos1{
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 20px;
+        height: 350px;
+        width: 370px;
+    }
+
+    #contatos{
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+        margin: 20px;
+        height: 350px;
+        width: 370px;
+    }
+
+    #p-cont{
+        font-size: 30px;
+    }
+
+    #imgs-contato{
+        width: 120px;
+        height: 120px;
+    }
+}
+
+
