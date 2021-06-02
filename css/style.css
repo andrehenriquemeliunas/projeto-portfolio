@@ -195,7 +195,7 @@ hr{
     #minha-foto{
         width: 640px;
         height: 800px;
-        display: block;
+        display: none;
         margin-left: 0;
         margin-right: 0;
         align-content: left;
